@@ -1,4 +1,4 @@
-# Clear Clinic  
+# MediGraph 
 
 <img src="assets\images\photo.jpeg" alt="Alt Text" width="600" height="600">
 
