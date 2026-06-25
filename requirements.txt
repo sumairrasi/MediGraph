@@ -1,0 +1,14 @@
+Django
+langchain-openai
+langchain-community
+djangorestframework
+langchain_experimental
+langchain-core
+django-environ
+safetensors
+huggingface-hub
+torch
+neo4j
+bs4
+pypdf
+djangorestframework-simplejwt

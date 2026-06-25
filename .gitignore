@@ -1,0 +1,12 @@
+chat_symptoms/__pycache__/
+data_ingestion/__pycache__/
+medi_graph/__pycache__/
+env/
+*db.sqlite3
+
+*.pyc
+*.pyo
+*.pyd
+*.env
+# Windows
+Thumbs.db

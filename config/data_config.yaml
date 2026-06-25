@@ -1,0 +1,17 @@
+organ:
+  index: "organIndex"
+  relation: "HAS_CONDITION"
+  node: "Condition"
+  value: "condition"
+
+condition:
+  index: "conditionIndex"
+  relation: "HAS_SYMPTOM"
+  node: "Symptom"
+  value: "symptom"
+
+symptom:
+  index: "symptomIndex"
+  relation: "IS_SYMPTOM_OF"
+  node: "Disease"
+  value: "disease"
