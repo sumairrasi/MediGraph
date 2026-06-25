@@ -1,6 +1,6 @@
 # MediGraph
 
-<img src="assets/images/photo.jpeg" alt="MediGraph Banner" width="700"/>
+<img src="assets/images/photo.png" alt="MediGraph Banner" width="700"/>
 
 **MediGraph** is a conversational medical assistant that leverages Large Language Models and a Neo4j knowledge graph to help users better understand their symptoms. Users can describe their symptoms in natural language, and the system analyzes the information to identify possible related medical conditions, explain those conditions, provide educational guidance, and recommend the most appropriate healthcare specialist to consult.
 
